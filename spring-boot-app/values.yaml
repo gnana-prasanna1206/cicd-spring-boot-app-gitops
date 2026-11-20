@@ -1,0 +1,10 @@
+replicaCount: 2
+
+image:
+  repository: gnanaprasanna1206/spring-boot-app
+  tag: "5"
+
+service:
+  type: NodePort
+  port: 80
+  nodePort: 30080
