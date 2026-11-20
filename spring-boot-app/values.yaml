@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: gnanaprasanna1206/spring-boot-app
-  tag: "9"
+  tag: "8"
 
 service:
   type: NodePort
