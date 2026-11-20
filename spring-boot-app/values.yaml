@@ -1,4 +1,4 @@
-replicaCount: 3
+replicaCount: 1
 image:
   repository: gnanaprasanna1206/spring-boot-app
   tag: "11"
